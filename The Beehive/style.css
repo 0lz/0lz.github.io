@@ -1,0 +1,175 @@
+body{
+background-image: url("http://theanthomesteader.com/wp-content/uploads/2016/05/beespollinating.jpg");
+}
+
+
+#bumblebee {
+    color: rgb(255,180,0);
+    border-collapse: collapse;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 60%;
+}
+
+#bumblebee td, #bumblebee th {
+    border: 3px solid rgb(255,180,0);
+    padding: 8px;
+    background-color: rgba(100,50,0,0.9);
+}
+
+#bumblebee tr:hover {background-color: #ddd;}
+
+#bumblebee th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgba(100,50,0,1);
+    color: rgb(255,180,0);
+}
+
+.all{
+background-color: rgba(255,180,0,0.6);
+color: rgb(100,50,0);
+font-size: 24px;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+.dropbtn {
+    background-color: #E0A010;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgba(224,160,16,0.9);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ffffaa}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+header{
+border-radius: 1080px
+font-family: 'Pangolin';
+text-align: center;
+background: url("https://www.teambonding.com/wp-content/uploads/2012/10/bees-in-the-hive.jpg");
+background-size: cover;
+color: white;
+}
+div{
+  border-radius: 25px;
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+}
+
+a {
+color: white;
+text-decoration: none;
+}
+
+footer a:hover
+{    color:#FFFF00;
+   text-decoration:none;
+   cursor:pointer;
+}
+
+.headerdescription{
+  font-size:25px;
+  color: rgb(255,200,0) ;
+}
+header ul{
+padding: 10px;
+background: rgba(0,0,0,0.7);
+}
+footer ul{
+padding: 10px;
+background: rgba(0,0,0,0.7);
+}
+header li{display: inline;
+padding: 20px 10px 20px 10px;
+font-size: 20px;
+}
+img{
+
+  margin: 15px 0px 0px 30px;
+  border: 7px solid rgb(255,200,0);
+  border-radius: 20px;
+  }
+
+.thebeehive{
+  height: 200px;
+  width: auto;
+}
+.pollen {
+  height: 350px;
+  width: auto;
+}
+.honey{
+  height: 200px;
+  width: auto;
+}
+.society{
+  height: 225px;
+  width: auto;
+}
+.beekeeper{
+  height:200px;
+  width: auto;
+}
+.mimic{
+  height: 150px;
+  width: auto;
+}
+.evolve{
+  height: 200px;
+  width: auto;
+}
+.bumble{
+  height: 200px;
+  width: auto;
+}
+a{
+  text-decorations:none;
+}
+footer{
+  font-family: 'Ubuntu Condensed', sans-serif;
+  text-align: center;
+  background: url("https://www.teambonding.com/wp-content/uploads/2012/10/bees-in-the-hive.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 20px
+}
+
+h1{
+  font-family: Arial;
+  font-size: 37px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 27px;
+}
