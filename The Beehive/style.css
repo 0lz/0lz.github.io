@@ -173,6 +173,6 @@ h2{
   font-size: 27px;
 }
 
-#borderless: {
-    border width: 0px;
+#borderless{
+    border: none;
 }
