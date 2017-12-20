@@ -2,10 +2,6 @@ body{
 background-image: url("http://theanthomesteader.com/wp-content/uploads/2016/05/beespollinating.jpg");
 }
 
-#borderless: {
-    border width: 0px;
-}
-
 #bumblebee {
     color: rgb(255,180,0);
     border-collapse: collapse;
@@ -175,4 +171,8 @@ h1{
 
 h2{
   font-size: 27px;
+}
+
+#borderless: {
+    border width: 0px;
 }
